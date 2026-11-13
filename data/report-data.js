@@ -133,6 +133,11 @@ window.reportData = {
       rank: "Serda",
       nrp: "31010752020182"
     },
+        "Silangjana": {
+      name: "Mujiburrahman",
+      rank: "Serma",
+      nrp: "'31950281580675"
+    },
     Sukasada: {
       name: "Nyoman Join Amitaba",
       rank: "Serka",
